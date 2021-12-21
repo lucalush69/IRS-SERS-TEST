@@ -1,0 +1,49 @@
+{
+    "image": "0003.png",
+    "tokenId": "0003",
+    "name": "IRS 0003",
+    "collection": {    
+        "name": "SERS test Collection",
+        "family": "SERS_test_01"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ice Blue"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Top Hat"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Black Suit"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Clout Goggles"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Audit Notice Letter"
+        }
+    ],
+    "properties": {
+        "files": [
+          {
+            "uri": "0003.png",
+            "type": "image/png"
+          }
+        ],
+        "creators": [
+          {
+            "address": "2LWrKkmG8PA3Qgr4MEGoTKG8bfh5kyzLmStSuqKqYxao",
+            "share": 100
+          }
+        ]
+      }
+}

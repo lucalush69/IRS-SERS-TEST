@@ -1,0 +1,49 @@
+{
+    "image": "0005.png",
+    "tokenId": "0005",
+    "name": "IRS 0005",
+    "collection": {    
+        "name": "SERS test Collection",
+        "family": "SERS_test_01"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Jester Hat"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "Black Suit"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Nerd Glasses"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Juul"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Handcuffs"
+        }
+    ],
+    "properties": {
+        "files": [
+          {
+            "uri": "0005.png",
+            "type": "image/png"
+          }
+        ],
+        "creators": [
+          {
+            "address": "2LWrKkmG8PA3Qgr4MEGoTKG8bfh5kyzLmStSuqKqYxao",
+            "share": 100
+          }
+        ]
+      }
+}
